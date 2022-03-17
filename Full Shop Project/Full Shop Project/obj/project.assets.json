@@ -8,26 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ori\\.nuget\\packages\\": {}
+    "/Users/avivbenyosef/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj",
+      "projectUniqueName": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj",
       "projectName": "Full Shop Project",
-      "projectPath": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj",
-      "packagesPath": "C:\\Users\\ori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\obj\\",
+      "projectPath": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj",
+      "packagesPath": "/Users/avivbenyosef/.nuget/packages/",
+      "outputPath": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ori\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/avivbenyosef/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

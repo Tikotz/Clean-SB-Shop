@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Full Shop Project/1.0.0": {
+        "runtime": {
+          "Full Shop Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Full Shop Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

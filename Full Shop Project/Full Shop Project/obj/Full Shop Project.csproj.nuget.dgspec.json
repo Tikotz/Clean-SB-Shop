@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj": {}
+    "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj": {}
   },
   "projects": {
-    "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj": {
+    "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj",
+        "projectUniqueName": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj",
         "projectName": "Full Shop Project",
-        "projectPath": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/Full Shop Project.csproj",
-        "packagesPath": "/Users/avivbenyosef/.nuget/packages/",
-        "outputPath": "/Users/avivbenyosef/Projects/Helping/Clean-SB-Shop/Full Shop Project/Full Shop Project/obj/",
+        "projectPath": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\Full Shop Project.csproj",
+        "packagesPath": "C:\\Users\\ori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ori\\Documents\\workspace\\Projects\\FullProject\\Full Shop Project\\Full Shop Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/avivbenyosef/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net5.0-windows7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
         }
       }
     }

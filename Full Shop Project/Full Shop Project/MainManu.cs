@@ -10,12 +10,16 @@ using System.Windows.Forms;
 
 namespace Full_Shop_Project
 {
-    public partial class Form1 : Form
+    public partial class MainManu : Form
     {
-        public Form1()
+        public MainManu()
         {
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

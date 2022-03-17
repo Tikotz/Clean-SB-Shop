@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="SB.Shop.Core" />
     <Folder Include="SB.Shop.Services" />
     <Folder Include="SB.Shop.UI" />
   </ItemGroup>

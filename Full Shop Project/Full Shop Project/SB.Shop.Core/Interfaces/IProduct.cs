@@ -8,5 +8,11 @@ namespace Full_Shop_Project.SB.Shop.Core.Interfaces
 {
     internal interface IProduct
     {
+        public string GetProductName();
+        public int GetProductId();
+        public int GetProductPrice();
+        public int GetProductUIStock();
+        public int SetProductUIStock();
+
     }
 }

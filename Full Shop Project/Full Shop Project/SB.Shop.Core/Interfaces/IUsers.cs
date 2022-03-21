@@ -8,18 +8,17 @@ namespace Full_Shop_Project.SB.Shop.Core.Interfaces
 {
     internal interface IUsers
     {
-        public static User CreateClientInstance(string FirstName, string LastName, int PhoneNumber, string Email, string UserName, string Password)
-        {
-            User newClient = new User();
+        public int GetUserId();
+        public string GetFullName();
+        public string GetUserEmail(int id);
+        public int GetUserBudget(int id);
+        public int GetPassword(string userName);
+        public string GetUserInfo();
+        public int GetBudget();
+        public int setBudget(int newBudget);
+        public int DecBudget(int price);
+        public int IncBudget(int price);
+        public bool Login();
 
-            newClient.FirstName = FirstName;
-            newClient.LastName = LastName;
-            newClient.PhoneNumber = PhoneNumber;
-            newClient.Email = Email;
-            newClient.UserName = UserName;
-            newClient.Password = Password;
-
-            return newClient;
-        }
     }
 }

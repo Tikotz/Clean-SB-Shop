@@ -8,10 +8,10 @@ namespace Full_Shop_Project.SB.Shop.Core.Interfaces
 {
     internal interface IValidations
     {
-        public static bool ValidateEmail(string mail);
-        public static bool ValidateNam(string fullName);
-        public static bool ValidatePhone(string phone);
-        public static bool ValidateUserName(string username);
-        public static bool ValidatePassword(string password);
+        public bool ValidateEmail(string mail);
+        public bool ValidateName(string fullName);
+        public bool ValidatePhone(string phone);
+        public bool ValidateUserName(string username);
+        public bool ValidatePassword(string password);
     }
 }

@@ -8,5 +8,7 @@ namespace Full_Shop_Project.SB.Shop.Core.Interfaces
 {
     internal interface ICompany
     {
+        public int GetCompanyId();
+        public string GetName();
     }
 }
